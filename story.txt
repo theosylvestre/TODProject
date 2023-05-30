@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 First sentence changed.
+=======
+First sentence modified.
+>>>>>>> 7d7f2e638e01f84aaa6639c441ce3426cf10301a
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus 
 tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices 
 diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci 
